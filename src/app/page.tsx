@@ -5,7 +5,7 @@ export default function Home() {
     <div className="bg-zinc-100 flex w-full h-full">
       <SidebarMenu />
 
-      <main className="p-4 border rounded-xl flex-1 min-h-full my-4 mr-4 bg-background">
+      <main className="p-3 border rounded-xl flex-1 min-h-full my-3 mr-3 bg-background">
         <h1>Home</h1>
       </main>
     </div>
